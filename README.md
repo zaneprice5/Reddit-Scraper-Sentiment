@@ -1,4 +1,4 @@
-# reddit_sentiment
+# Reddit Scraper and Sentiment Analysis
 
 Pull data from Reddit and run sentiment analysis or other analysis. 
 
